@@ -1,0 +1,6 @@
+{
+	"pack": {
+  	"pack_format": 8,
+    "description": [{"text":"This datapack prevents endermans from picking up anything.\n","color": "yellow"},{"text":"1.13 - 1.18 Compatible.","color":"light_purple"}]
+	}
+}
